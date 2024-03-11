@@ -1,0 +1,15 @@
+.mydiv{
+    padding-top: 100px;
+   background-image:url("demo.jpg") ; 
+    background-size: cover;
+    height: 600px;
+
+}
+/* .img-thumbnail{
+    background-size: 5px;
+} */
+/* .mystyle{
+    background-image:url("demo.jpg") ;
+    height: 100%;
+    background-size: cover;
+} */

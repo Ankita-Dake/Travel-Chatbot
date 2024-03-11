@@ -1,0 +1,14 @@
+.bg-body-tertiary{
+    background-color: rgb(37, 150, 190);
+    color: black
+    /* height: 75px;
+    margin-left: 0px;
+    width: 100%;
+    color: aliceblue; */
+    /* box-shadow:0.5rem 1rem #f0e199; */
+}
+.mynav{
+    caret-color: black;
+    cursor: text;
+    
+}
